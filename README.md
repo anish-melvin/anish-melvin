@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @anish-melvin
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python and SQL
+- 📫 How to reach me ...LinkedIn - https://www.linkedin.com/in/anish-melvin-039618197/
